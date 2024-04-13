@@ -1,0 +1,12 @@
+/NJU-China-website
+  /assets
+    /css
+      - style.css
+    /js
+      - script.js
+    /images
+      - logo.png
+  - index.html
+  - wet-lab.html
+  - dry-lab.html
+  - team.html
